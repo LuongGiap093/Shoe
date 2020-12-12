@@ -1,8 +1,0 @@
-D:\TH lập trình windows\doan\doan\main\DTO\bin\Debug\DTO.dll
-D:\TH lập trình windows\doan\doan\main\DTO\bin\Debug\DTO.pdb
-D:\TH lập trình windows\doan\doan\main\DTO\obj\Debug\DTO.dll
-D:\TH lập trình windows\doan\doan\main\DTO\obj\Debug\DTO.pdb
-C:\Users\Admin\Desktop\BTL\doan\main\DTO\bin\Debug\DTO.dll
-C:\Users\Admin\Desktop\BTL\doan\main\DTO\bin\Debug\DTO.pdb
-C:\Users\Admin\Desktop\BTL\doan\main\DTO\obj\Debug\DTO.dll
-C:\Users\Admin\Desktop\BTL\doan\main\DTO\obj\Debug\DTO.pdb
