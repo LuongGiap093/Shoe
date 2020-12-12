@@ -1,0 +1,223 @@
+D:\CKC\doan\main\main\bin\Debug\main.exe
+D:\CKC\doan\main\main\bin\Debug\main.pdb
+D:\CKC\doan\main\main\bin\Debug\DevExpress.CodeRush.Common.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.CodeRush.Core.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.CodeRush.Interop.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.CodeRush.VSCore.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Decompiler.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Localization.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.MetaData.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Parser.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Platform.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.IntelliRush.Core.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Mvvm.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+D:\CKC\doan\main\main\bin\Debug\DevExpress.CodeRush.Common.xml
+D:\CKC\doan\main\main\bin\Debug\DevExpress.CodeRush.Core.xml
+D:\CKC\doan\main\main\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+D:\CKC\doan\main\main\bin\Debug\DevExpress.CodeRush.VSCore.xml
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.MetaData.xml
+D:\CKC\doan\main\main\bin\Debug\DevExpress.DXCore.Parser.xml
+D:\CKC\doan\main\main\obj\Debug\main.dangky.resources
+D:\CKC\doan\main\main\obj\Debug\main.dangnhap.resources
+D:\CKC\doan\main\main\obj\Debug\main.doimk.resources
+D:\CKC\doan\main\main\obj\Debug\main.Form1.resources
+D:\CKC\doan\main\main\obj\Debug\main.NhanVien.resources
+D:\CKC\doan\main\main\obj\Debug\main.phanquyen.resources
+D:\CKC\doan\main\main\obj\Debug\main.Properties.Resources.resources
+D:\CKC\doan\main\main\obj\Debug\QuanLy.csproj.GenerateResource.Cache
+D:\CKC\doan\main\main\obj\Debug\main.exe.licenses
+D:\CKC\doan\main\main\obj\Debug\main.exe
+D:\CKC\doan\main\main\obj\Debug\main.pdb
+D:\CKC\doan\main\main\obj\Debug\QuanLy.csprojResolveAssemblyReference.cache
+D:\CKC\doan\main\main\obj\Debug\main.timnhanvien.resources
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\main.exe.config
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\main.exe
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\main.pdb
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\BUS.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.CodeRush.Common.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.CodeRush.Core.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.CodeRush.Interop.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.CodeRush.VSCore.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Decompiler.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Localization.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.MetaData.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Parser.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Platform.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.IntelliRush.Core.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DTO.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DAO.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Mvvm.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\BUS.pdb
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DTO.pdb
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.CodeRush.Common.xml
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.CodeRush.Core.xml
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.CodeRush.VSCore.xml
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.MetaData.xml
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DevExpress.DXCore.Parser.xml
+D:\TH lập trình windows\doan\doan\main\main\bin\Debug\DAO.pdb
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\QuanLy.csprojResolveAssemblyReference.cache
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.ChatLieu.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.CHITIETHOADON.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.dangky.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.dangnhap.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.doimk.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.Form1.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.HienThiBaoCao.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.HOADONBAN.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.HOADONNHAP.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.KHACHHANG.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.NHACUNGCAP.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.NhanVien.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.phanquyen.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.Properties.Resources.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.SHOES.resources
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\QuanLy.csproj.GenerateResource.Cache
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.exe.licenses
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\RdlCompile.cache
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\RdlCompile.compiled
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.exe
+D:\TH lập trình windows\doan\doan\main\main\obj\Debug\main.pdb
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\main.exe.config
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\main.exe
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\main.pdb
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\Admin\Desktop\BTL\doan\main\main\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\QuanLy.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.ChatLieu.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.dangky.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.dangnhap.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.doimk.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.Form1.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.HOADONBAN.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.KHACHHANG.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.NHACUNGCAP.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.NhanVien.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.phanquyen.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.Properties.Resources.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.SHOES.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.Tìm_Kiếm.timkiemsp.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\QuanLy.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.exe.licenses
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.exe
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.pdb
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.CHITIETHOADONBAN.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.PHIEUHOADONBAN.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.hienthibaocao.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.TEST.resources
+C:\Users\Admin\Desktop\BTL\doan\main\main\obj\Debug\main.RPdanhnhanvien.resources
+C:\doan (2)\main\main\bin\Debug\main.exe.config
+C:\doan (2)\main\main\obj\Debug\main.exe
+C:\doan (2)\main\main\obj\Debug\main.pdb
+C:\doan (2)\main\main\bin\Debug\main.exe
+C:\doan (2)\main\main\bin\Debug\main.pdb
+C:\doan (2)\main\main\bin\Debug\BUS.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\doan (2)\main\main\bin\Debug\DTO.dll
+C:\doan (2)\main\main\bin\Debug\DAO.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\doan (2)\main\main\bin\Debug\BUS.pdb
+C:\doan (2)\main\main\bin\Debug\DTO.pdb
+C:\doan (2)\main\main\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\doan (2)\main\main\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\doan (2)\main\main\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\doan (2)\main\main\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\doan (2)\main\main\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\doan (2)\main\main\bin\Debug\DAO.pdb
+C:\doan (2)\main\main\obj\Debug\QuanLy.csprojResolveAssemblyReference.cache
+C:\doan (2)\main\main\obj\Debug\main.ChatLieu.resources
+C:\doan (2)\main\main\obj\Debug\main.CHITIETHOADONBAN.resources
+C:\doan (2)\main\main\obj\Debug\main.dangky.resources
+C:\doan (2)\main\main\obj\Debug\main.dangnhap.resources
+C:\doan (2)\main\main\obj\Debug\main.doimk.resources
+C:\doan (2)\main\main\obj\Debug\main.Form1.resources
+C:\doan (2)\main\main\obj\Debug\main.hienthibaocao.resources
+C:\doan (2)\main\main\obj\Debug\main.HOADONBAN.resources
+C:\doan (2)\main\main\obj\Debug\main.RPdanhnhanvien.resources
+C:\doan (2)\main\main\obj\Debug\main.KHACHHANG.resources
+C:\doan (2)\main\main\obj\Debug\main.NHACUNGCAP.resources
+C:\doan (2)\main\main\obj\Debug\main.NhanVien.resources
+C:\doan (2)\main\main\obj\Debug\main.phanquyen.resources
+C:\doan (2)\main\main\obj\Debug\main.PHIEUHOADONBAN.resources
+C:\doan (2)\main\main\obj\Debug\main.Properties.Resources.resources
+C:\doan (2)\main\main\obj\Debug\main.SHOES.resources
+C:\doan (2)\main\main\obj\Debug\main.TEST.resources
+C:\doan (2)\main\main\obj\Debug\main.Tìm_Kiếm.timkiemsp.resources
+C:\doan (2)\main\main\obj\Debug\QuanLy.csproj.GenerateResource.Cache
+C:\doan (2)\main\main\obj\Debug\main.exe.licenses
+C:\doan (2)\main\main\obj\Debug\RdlCompile.cache
+C:\doan (2)\main\main\obj\Debug\RdlCompile.compiled

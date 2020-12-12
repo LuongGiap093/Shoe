@@ -1,0 +1,9 @@
+D:\CKC\doan\main\main\bin\Debug\main.exe
+D:\CKC\doan\main\main\bin\Debug\main.pdb
+D:\CKC\doan\main\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+D:\CKC\doan\main\main\obj\Debug\main.Form1.resources
+D:\CKC\doan\main\main\obj\Debug\main.Properties.Resources.resources
+D:\CKC\doan\main\main\obj\Debug\main.csproj.GenerateResource.Cache
+D:\CKC\doan\main\main\obj\Debug\main.exe.licenses
+D:\CKC\doan\main\main\obj\Debug\main.exe
+D:\CKC\doan\main\main\obj\Debug\main.pdb
